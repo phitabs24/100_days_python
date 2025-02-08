@@ -1,0 +1,73 @@
+import art
+print(art.logo)
+
+
+def add(n1, n2):
+    """Returns the sum of two values n1 and n2"""
+    return n1 + n2
+
+
+def divide(n1, n2):
+    """Returns the ratio of two values n1 and n2"""
+    return n1 / n2
+
+
+def subtract(n1, n2):
+    """Returns the difference of two values n1 and n2"""
+    return n1 - n2
+
+
+def multiply(n1, n2):
+    """Returns the product of two values n1 and n2"""
+    return n1 * n2
+
+
+operations = {"+": add,
+              "-": divide,
+              "*": multiply,
+              "/": divide
+              }
+
+
+start_fresh = True
+calculate_again = True
+continue_calculations = True
+while continue_calculations:
+    while start_fresh:
+        print("\n" * 20)
+        print(art.logo)
+        n1 = float(input("What's the first number?:   "))
+        print("+\n-\n*\n/")
+        operation = input("Pick an operation:   ")
+        n2 = float(input("What's the next number?:   "))
+        result = operations[operation](n1, n2)
+        print(f"{n1} {operation} {n2} = {result}")
+        proceed = input(f"Type 'y' to continue calculation with {result}, or type 'n' to start a new calculation: ").lower()
+        if proceed == "y":
+            start_fresh = False
+
+    while not start_fresh:
+
+        n1 = result
+        print("+\n-\n*\n/")
+        operation = input("Pick an operation:   ")
+        n2 = float(input("What's the next number?:   "))
+        result = operations[operation](n1, n2)
+        print(f"{n1} {operation} {n2} = {result}")
+        proceed = input(f"Type 'y' to continue calculation with {result}, or type 'n' to start a new calculation: ").lower()
+        if proceed == "n":
+            start_fresh = True
+
+# def cont_calc():
+# operation = input("Pick an operation:   ")
+
+# return operate
+
+
+
+
+
+# if proceed == "n":
+#     continue_calculations = False
+
+
