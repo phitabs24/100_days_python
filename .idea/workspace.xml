@@ -4,353 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0bee870-0da8-4f17-8d4f-a74833898134" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/100_days_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Inputs/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Inputs/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Inputs/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Printing/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Printing/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Printing/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/String Manipulation/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/String Manipulation/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/String Manipulation/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Variable Naming/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Variable Naming/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Variable Naming/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Variables/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Variables/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Variables/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/task/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/task/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Calculator Project/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Calculator Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Calculator Project/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Calculator Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Calculator Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Calculator Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Docstrings/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Docstrings/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Docstrings/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Docstrings/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Docstrings/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Functions with Outputs/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Functions with Outputs/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Functions with Outputs/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Functions with Outputs/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Functions with Outputs/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Multiple Return Values/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Multiple Return Values/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Multiple Return Values/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Multiple Return Values/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/Multiple Return Values/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Blackjack Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Blackjack Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/Blackjack Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/task/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11/task/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Block Scope/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Block Scope/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Block Scope/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Block Scope/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Block Scope/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Constants/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Constants/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Constants/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Constants/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Constants/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Vars/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Vars/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Vars/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Vars/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Global Vars/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Namespaces and Scope/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Describe the Problem/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Describe the Problem/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Describe the Problem/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Describe the Problem/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Describe the Problem/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Fix the Errors/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Fix the Errors/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Fix the Errors/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Fix the Errors/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Fix the Errors/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Play Computer/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Play Computer/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Play Computer/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Play Computer/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Play Computer/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Reproduce the Bug/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Reproduce the Bug/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Reproduce the Bug/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Reproduce the Bug/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Reproduce the Bug/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use Print/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use Print/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use Print/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use Print/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use Print/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use a Debugger/maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use a Debugger/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use a Debugger/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use a Debugger/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use a Debugger/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/Use a Debugger/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 13/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/game_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 14/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 15/Coffee Machine Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 15/Coffee Machine Project/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 15/Coffee Machine Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 15/Coffee Machine Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 15/Coffee Machine Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 15/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 15/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16-100/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16-100/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Data Types/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Data Types/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Data Types/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Data Types/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Data Types/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Mathematical Operations/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Mathematical Operations/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Mathematical Operations/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Mathematical Operations/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Mathematical Operations/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Number Manipulation/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Number Manipulation/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Number Manipulation/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Number Manipulation/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Number Manipulation/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Tip Calculator Project/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/If Else/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/If Else/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/If Else/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/If Else/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Logical Operators/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Modulo/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Modulo/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Modulo/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Modulo/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Python Pizza/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Python Pizza/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Python Pizza/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Python Pizza/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/IndexError/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/IndexError/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/IndexError/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/IndexError/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Lists/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Lists/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Lists/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Lists/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Lists/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Random Module/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Random Module/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Random Module/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Random Module/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops with Range/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops with Range/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops with Range/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops with Range/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops with Range/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/For Loops/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Highest Score/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Highest Score/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Highest Score/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Highest Score/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Highest Score/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Password Generator Project/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Password Generator Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Password Generator Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Password Generator Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Password Generator Project/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Functions/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Functions/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Functions/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Functions/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/Functions/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 1/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 1/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 1/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 2/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 2/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 2/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 3/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 3/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 3/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 4/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 4/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 4/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 5/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 5/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/Step 5/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/task/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/task/hangman_art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/task/hangman_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7/task/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Functions with Inputs/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Functions with Inputs/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Functions with Inputs/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Functions with Inputs/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Functions with Inputs/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Positional vs Keyword Arguments/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Positional vs Keyword Arguments/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Positional vs Keyword Arguments/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Positional vs Keyword Arguments/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/Positional vs Keyword Arguments/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Dictionaries/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Dictionaries/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Dictionaries/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Dictionaries/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Dictionaries/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    <list default="true" id="b0bee870-0da8-4f17-8d4f-a74833898134" name="Changes" comment="day 14: the higher lower game project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 14/Higher or Lower Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -507,7 +163,6 @@
     "Python.task.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -546,7 +201,7 @@
       <workItem from="1738734330586" duration="197000" />
       <workItem from="1738734550020" duration="7217000" />
       <workItem from="1738799626923" duration="35647000" />
-      <workItem from="1738995300322" duration="359000" />
+      <workItem from="1738995300322" duration="9082000" />
     </task>
     <servers />
   </component>
@@ -576,10 +231,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="100 days of Python&#10;&#10;Started the 100 days of python program a week ago, now currently on day 13" />
+    <MESSAGE value="day 14: the higher lower game project" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 14: the higher lower game project" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$Unittests_in_test_task_py.coverage" NAME="Unittests in test_task.py Coverage Results" MODIFIED="1738406287447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3/Python Pizza" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$test.coverage" NAME="test Coverage Results" MODIFIED="1738594629911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7/task" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1738963835642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 13/Use Print" />
-    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$main.coverage" NAME="main Coverage Results" MODIFIED="1738960175794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 12/Number Guessing Project" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$main.coverage" NAME="main Coverage Results" MODIFIED="1739009045808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 14/Higher or Lower Project" />
   </component>
 </project>
