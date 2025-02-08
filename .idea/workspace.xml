@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0bee870-0da8-4f17-8d4f-a74833898134" name="Changes" comment="day 14: the higher lower game project">
+      <change afterPath="$PROJECT_DIR$/Day 15/Coffee Machine Project/menu_resource.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 14/Higher or Lower Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14/Higher or Lower Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Coffee Machine Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/Coffee Machine Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Coffee Machine Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/Coffee Machine Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +77,7 @@
     <setting file="file://$PROJECT_DIR$/Day 14/Higher or Lower Project/main.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 14/Higher or Lower Project/solution.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 15/Coffee Machine Project/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 15/Coffee Machine Project/menu_resource.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 15/Coffee Machine Project/solution.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 16-100/Where are the rest of the days/__init__.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 16-100/Where are the rest of the days/main.py" root0="FORCE_HIGHLIGHTING" />
@@ -160,9 +166,12 @@
     "Edu.Yaml.Migrate": "true",
     "Python tests.Unittests in test_task.py.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.menu_resource.executor": "Run",
+    "Python.solution.executor": "Run",
     "Python.task.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -174,6 +183,36 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 15/Coffee Machine Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 15/Coffee Machine Project/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.solution" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -201,8 +240,18 @@
       <workItem from="1738734330586" duration="197000" />
       <workItem from="1738734550020" duration="7217000" />
       <workItem from="1738799626923" duration="35647000" />
-      <workItem from="1738995300322" duration="9082000" />
+      <workItem from="1738995300322" duration="19392000" />
+      <workItem from="1739043541890" duration="19000" />
     </task>
+    <task id="LOCAL-00001" summary="day 14: the higher lower game project">
+      <option name="closed" value="true" />
+      <created>1739009630793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739009630793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +288,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$Unittests_in_test_task_py.coverage" NAME="Unittests in test_task.py Coverage Results" MODIFIED="1738406287447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3/Python Pizza" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$test.coverage" NAME="test Coverage Results" MODIFIED="1738594629911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 7/task" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$menu_resource.coverage" NAME="menu_resource Coverage Results" MODIFIED="1739033305398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 15/Coffee Machine Project" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$solution.coverage" NAME="solution Coverage Results" MODIFIED="1739038862576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 15/Coffee Machine Project" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1738963835642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 13/Use Print" />
-    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$main.coverage" NAME="main Coverage Results" MODIFIED="1739009045808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 14/Higher or Lower Project" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$main.coverage" NAME="main Coverage Results" MODIFIED="1739033992821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 15/Coffee Machine Project" />
   </component>
 </project>
