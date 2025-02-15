@@ -5,6 +5,7 @@ import colorgram as cg
 from turtle import Turtle, Screen, colormode
 
 t = Turtle()
+t.hideturtle()
 
 # colors = cg.extract('image.jpg', 25)
 
