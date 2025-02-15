@@ -28,9 +28,12 @@ colormode(255)
 t.pu()
 t.setpos(-225, -225)
 
+
 def paint():
     t.dot(20)
     t.fd(50)
+
+
 # print(rgb_colors)
 for _ in range(100):
     t.color(random.choice(rgb_colors))
