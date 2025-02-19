@@ -19,7 +19,12 @@ class ScoreBoard(Turtle):
         self.update_score()  # Display the initial score
 
     def game_over(self):
-        """Displays the game over message on the scoreboard."""
+        """Displays the game over message on the scoreboard.
+
+        This method moves the scoreboard to the home position (center of the
+        screen) and writes the game over message. The message is written in the
+        middle of the screen with the font Arial, size 16, in normal style.
+        """
         # Move the scoreboard to the home position (center of the screen)
         self.home()
         # Write the game over message
