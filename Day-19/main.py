@@ -23,15 +23,15 @@ for turtle in turtles:
     starty += 60
 
 def check_winner():
-    if turtle.xcor() > 240:
-        winner = turtle.fillcolor()
+    if turtle.xcor() > 235:
+        winner = turtle.pencolor()
         if winner == user_bet.lower():
             return f"You win! The winner is {winner}"
         else:
             return f"You lose! The winner is {winner}"
 
 def game_on():
-    if turtle.xcor() > 240:
+    if turtle.xcor() > 235:
         return False
     else:
         return True
