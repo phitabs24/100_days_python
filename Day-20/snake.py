@@ -80,6 +80,22 @@ class Snake:
         # Move the head of the snake forward by one step size
         self.head.fd(STEP_SIZE)
 
+    def reset(self):
+        """Reset the snake to its initial position.
+
+        This method clears the snake list and calls the make_snake
+        method to re-create the snake object.
+
+        :return: None
+        """
+        # Clear the old snake list
+        for seg in self.snake:
+            seg.hideturtle()
+        # Re-create the snake object
+        self.snake.clear()
+        self.make_snake()
+        self.head = self.snake[0]
+
     def up(self):
         """Turn the snake up.
 
