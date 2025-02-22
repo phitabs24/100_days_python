@@ -18,14 +18,16 @@ states = data.state.to_list()
 x_values = data.x.to_list()
 y_values = data.y.to_list()
 guessed_states = []
-missed_states = []
+
 
 answer_state = screen.textinput(title="Guess State", prompt="What's the name of the state?").title()
 game_on = True
 
 while len(guessed_states) < 50:
     if answer_state == "Exit":
-        break
+        missed_states = [state for state in states if state not in guessed_states]
+        new_list = pandas.DataFrame(missed_states)
+        new_list.to_csv("learn.csv")
     if answer_state in states:
         guessed_states.append(answer_state)
         s_index = states.index(answer_state)
@@ -36,10 +38,6 @@ while len(guessed_states) < 50:
     score = len(guessed_states)
     answer_state = screen.textinput(title=f"{score}/50 States Correct", prompt="What's another state name?").title()
 
-for state in states:
-    if state not in guessed_states:
-        missed_states.append(state)
 
-new_list = pandas.DataFrame(missed_states)
-new_list.to_csv("learn.csv")
+
 screen.mainloop()
