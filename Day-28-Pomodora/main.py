@@ -14,6 +14,7 @@ reps = 0
 checks = ""
 timer = None
 
+
 # ---------------------------- TIMER RESET ------------------------------- #
 def reset_timer():
     global reps
@@ -22,6 +23,7 @@ def reset_timer():
     title.config(text="Timer", fg=GREEN)
     window.after_cancel(timer)
     canvas.itemconfig(timer_text, text="00:00")
+
 
 # ---------------------------- TIMER MECHANISM ------------------------------- #
 def start_timer():
