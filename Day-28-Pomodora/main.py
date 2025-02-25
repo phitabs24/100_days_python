@@ -1,5 +1,6 @@
 import math
 from tkinter import *
+import winsound
 
 # ---------------------------- CONSTANTS ------------------------------- #
 PINK = "#e2979c"
@@ -17,6 +18,7 @@ timer = None
 
 # ---------------------------- TIMER RESET ------------------------------- #
 def reset_timer():
+    """Resets the timer"""
     global reps
     reps = 0
     cycles.config(text="")
@@ -27,6 +29,7 @@ def reset_timer():
 
 # ---------------------------- TIMER MECHANISM ------------------------------- #
 def start_timer():
+    """Starts the timer"""
     global reps
     reps += 1
 
@@ -47,6 +50,7 @@ def start_timer():
 
 # ---------------------------- COUNTDOWN MECHANISM ------------------------------- #
 def count_down(count):
+    """Counts down the time"""
     global checks
     global timer
     count_min = math.floor(count / 60)
@@ -57,6 +61,9 @@ def count_down(count):
         canvas.itemconfig(timer_text, text=f"{count_min}:{count_sec}")
         timer = window.after(1000, count_down, count - 1)
     else:
+        window.lift()
+        winsound.Beep(2500, 2000)  # 2500 Hz frequency, 1000 ms duration
+
         start_timer()
         if reps % 2 == 0:
             checks += "✔"
