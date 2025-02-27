@@ -1,0 +1,9 @@
+[project]
+name = "day-29-password-manager"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "messagebox>=0.1.0",
+    "pyperclip>=1.9.0",
+]

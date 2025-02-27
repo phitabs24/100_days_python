@@ -1,5 +1,3 @@
-
-
 **Pomodoro Timer Project**
 
 **Table of Contents**
@@ -18,7 +16,8 @@
 **Introduction**
 ---------------
 
-The Pomodoro Timer Project is a simple yet effective time management tool that helps users stay focused and productive. The project is built using Python and the Tkinter library, providing a user-friendly graphical interface.
+The Pomodoro Timer Project is a simple yet effective time management tool that helps users stay focused and productive.
+The project is built using Python and the Tkinter library, providing a user-friendly graphical interface.
 
 **Features**
 ------------
@@ -64,13 +63,16 @@ The project consists of the following files:
 **Customization**
 ----------------
 
-* **Work and Break Intervals**: Adjust the `WORK_MIN` and `BREAK_MIN` variables in `main.py` to customize the Pomodoro intervals.
-* **Notification Sounds**: Replace the `winsound.Beep()` function with your own audio notification code or use the `simpleaudio` library for cross-platform support.
+* **Work and Break Intervals**: Adjust the `WORK_MIN` and `BREAK_MIN` variables in `main.py` to customize the Pomodoro
+  intervals.
+* **Notification Sounds**: Replace the `winsound.Beep()` function with your own audio notification code or use the
+  `simpleaudio` library for cross-platform support.
 
 **Troubleshooting**
 ------------------
 
-* **Audio Notifications**: Ensure that the `winsound` module is installed on Windows or the `simpleaudio` library is installed for cross-platform support.
+* **Audio Notifications**: Ensure that the `winsound` module is installed on Windows or the `simpleaudio` library is
+  installed for cross-platform support.
 * **Interface Issues**: Check that the Tkinter library is installed and functioning correctly.
 
 **Contributing**
