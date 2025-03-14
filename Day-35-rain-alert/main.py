@@ -1,6 +1,11 @@
 import requests
+import os
+from dotenv import load_dotenv
 
-API_KEY = "d698c2295960276d083047e298eb9ace"
+
+load_dotenv()
+API_KEY = os.environ.get("OWM_API_KEY")
+print(API_KEY)
 parameters = {
     "lat": 0.416198,
     "lon": 9.467268,
@@ -21,9 +26,8 @@ for item in forcast["list"]:
 
 for weather_id in weather_ids:
     if weather_id < 700:
-        will_rain = True
+        print("Bring an Umbrella")
+        break
 
-if will_rain:
-    print("Bring an Umbrella")
 
 

@@ -1,8 +1,9 @@
 ##################### Extra Hard Starting Project ######################
-
+import os
+from dotenv import load_dotenv
 
 # 1. Update the birthdays.csv
-
+load_dotenv()
 # 2. Check if today matches a birthday in the birthdays.csv
 import pandas as pd
 import smtplib
@@ -10,8 +11,10 @@ from email.mime.text import MIMEText
 from random import choice
 import datetime
 
-MY_EMAIL = "phitabs24@gmail.com"
-MY_PASSWORD = "gfxagorzyrqykbok"
+MY_EMAIL = os.environ.get("GMAIL_USERNAME")
+# MY_PASSWORD = "gfxagorzyrqykbok"
+MY_PASSWORD= os.environ.get("GMAIL_PASSWORD")
+print(MY_PASSWORD)
 
 # Load the birthdays CSV file
 birthdays_df = pd.read_csv('birthdays.csv')
